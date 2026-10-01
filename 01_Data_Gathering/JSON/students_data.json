@@ -1,0 +1,37 @@
+[
+    {
+        "Student_ID": 1,
+        "Name": "Ali",
+        "Age": 20,
+        "Department": "AI",
+        "CGPA": 3.45
+    },
+    {
+        "Student_ID": 2,
+        "Name": "Ahmad",
+        "Age": 21,
+        "Department": "CS",
+        "CGPA": 3.20
+    },
+    {
+        "Student_ID": 3,
+        "Name": "Usman",
+        "Age": 22,
+        "Department": "SE",
+        "CGPA": 3.80
+    },
+    {
+        "Student_ID": 4,
+        "Name": "Bilal",
+        "Age": 20,
+        "Department": "AI",
+        "CGPA": 3.60
+    },
+    {
+        "Student_ID": 5,
+        "Name": "Hamza",
+        "Age": 23,
+        "Department": "DS",
+        "CGPA": 3.10
+    }
+]
